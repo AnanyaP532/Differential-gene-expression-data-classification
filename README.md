@@ -11,9 +11,6 @@ GEO-ML-Differential-Expression/
 ├── README.md
 ├── data/
 │   └── GEO_dataset.csv           
-├── notebooks/
-│   ├── 01_EDA_and_Preprocessing.ipynb
-│   └── 02_Modeling_and_Evaluation.ipynb
 ├── src/
 │   ├── preprocess.py
 │   ├── train_models.py
