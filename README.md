@@ -30,7 +30,7 @@ GEO-ML-Differential-Expression/
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 3. Run preprocessing & training:
