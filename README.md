@@ -20,7 +20,6 @@ GEO-ML-Differential-Expression/
 │   ├── figures/
 │   └── metrics.json
 ├── requirements.txt
-└── LICENSE
 ```
 
 ## Quick start
