@@ -19,7 +19,7 @@ GEO-ML-Differential-Expression/
 ├── results/
 │   ├── figures/
 │   └── metrics.json
-├── requirements.txt
+└── requirements.txt
 ```
 
 ## Instructions
