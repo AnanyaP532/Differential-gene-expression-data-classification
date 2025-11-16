@@ -1,4 +1,4 @@
-#Train multiple classifiers on processed data and save evaluation metrics and a comparison figure.
+#Train multiple classifiers on processed data and save evaluation metrics
 #python src/train_models.py --input results/processed.csv --output results/metrics.json --figdir results/figures
 
 import argparse
