@@ -22,12 +22,9 @@ GEO-ML-Differential-Expression/
 ├── requirements.txt
 ```
 
-## Quick start
+## Instructions
 
-1. Place your dataset CSV in `data/GEO_dataset.csv`. Expected format:
-   - rows = samples
-   - columns = features (gene expression) and metadata columns (`Samples`, `age`, `gender`, `target`)
-   - `target` is the label column (0 = control, 1 = disease)
+1. Place your dataset CSV in `data/GEO_dataset.csv`.
 
 2. Create a virtual environment and install requirements:
 ```bash
