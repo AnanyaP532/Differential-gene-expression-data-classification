@@ -1,4 +1,5 @@
 #load data and pre-processing
+#python src/preprocess.py --input data/GEO_dataset.csv --output results/processed.csv
 
 import pandas as pd
 import argparse
